@@ -2,4 +2,4 @@
 JetBrains: my fourth project.
 
 Data input: incomes, purchases.
-The program calculates the balance and analysis of the structure of expenses.
+The program calculates the balance and analyzes the structure of expenses.
